@@ -11,7 +11,8 @@ In the initial phase, I performed the following processes;
 - Handling missing data in cells and labelling them as “N/A”.
 - Reformatting data set.
 
-These were all done to ensure data quality with the rows being 1465 rows in total.
+These were all done to ensure data integrity with the rows being 1465 rows in total.
+
 In the later phase, the worksheet was converted into a table, and some new columns were introduced using formulas including:
 Price bucket, Potential revenue, Rating + Rating count, etc.
 

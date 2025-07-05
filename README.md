@@ -35,8 +35,19 @@ By employing the use of pivot tables and calculated columns, I was able to answe
 - Which Categories have products with the highest discount?
 - Top 5 products in terms of average rating and reviews combined?
 
-### DATA ANALYSIS
+### ANALYSIS
 Below are some DAX Expressions used during my analysis:
-
+![Screenshot 2025-07-04 124409](https://github.com/user-attachments/assets/659543c0-3022-463a-a44c-d1ba8ccbabda)
+![Screenshot 2025-07-04 231004](https://github.com/user-attachments/assets/ca24dca3-2340-42f0-ae87-8141ba49555b)
+![Screenshot 2025-06-27 075300](https://github.com/user-attachments/assets/66e37907-05dd-4d06-af75-525bc413d77f)
+![Screenshot 2025-06-27 083709](https://github.com/user-attachments/assets/31d5b5f2-145c-4b49-96a0-170a3a65f9c3)
+![Screenshot 2025-07-01 002444](https://github.com/user-attachments/assets/ce790fb0-49f3-4141-a1d6-4310817e1a7d)
 
 ### RESULT 
+
+Attached below is my interactive dashboard
+![MY FIRST DATA ANALYTIC DASHBOARD](https://github.com/user-attachments/assets/336c0b48-ba71-4e1f-abc5-a5d18387cad0)
+
+
+
+![My first dashboard 2](https://github.com/user-attachments/assets/74161171-9a49-4467-a184-186e32424f37)

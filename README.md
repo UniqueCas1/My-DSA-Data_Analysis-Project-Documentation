@@ -35,7 +35,8 @@ By employing the use of pivot tables and calculated columns, I was able to answe
 - Which Categories have products with the highest discount?
 - Top 5 products in terms of average rating and reviews combined?
 
-DATA ANALYSIS
+### DATA ANALYSIS
 Below are some DAX Expressions used during my analysis:
 
-RESULT 
+
+### RESULT 

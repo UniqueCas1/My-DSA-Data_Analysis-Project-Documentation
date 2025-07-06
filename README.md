@@ -48,7 +48,6 @@ Below are some DAX Expressions used during my analysis:
 
 Attached below is my interactive dashboard
 ![MY FIRST DATA ANALYTIC DASHBOARD](https://github.com/user-attachments/assets/336c0b48-ba71-4e1f-abc5-a5d18387cad0)
-![My first dashboard 2](https://github.com/user-attachments/assets/74161171-9a49-4467-a184-186e32424f37)
 ![THIRD](https://github.com/user-attachments/assets/b05f873f-c5c4-4de3-8054-352e4ad1a7f5)
 
 To see the full RESULT file ([Amazon case study.xlsx](https://github.com/user-attachments/files/21087402/Amazon.case.study.xlsx))

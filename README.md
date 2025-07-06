@@ -38,19 +38,21 @@ By employing the use of pivot tables and calculated columns, I was able to answe
 
 ### ANALYSIS
 Below are some DAX Expressions used during my analysis:
-![Screenshot 2025-07-04 124409](https://github.com/user-attachments/assets/659543c0-3022-463a-a44c-d1ba8ccbabda)
 ![Screenshot 2025-07-04 231004](https://github.com/user-attachments/assets/ca24dca3-2340-42f0-ae87-8141ba49555b)
 ![Screenshot 2025-06-27 075300](https://github.com/user-attachments/assets/66e37907-05dd-4d06-af75-525bc413d77f)
 ![Screenshot 2025-06-27 083709](https://github.com/user-attachments/assets/31d5b5f2-145c-4b49-96a0-170a3a65f9c3)
 ![Screenshot 2025-07-01 002444](https://github.com/user-attachments/assets/ce790fb0-49f3-4141-a1d6-4310817e1a7d)
+
 
 ### RESULT 
 
 Attached below is my interactive dashboard
 ![MY FIRST DATA ANALYTIC DASHBOARD](https://github.com/user-attachments/assets/336c0b48-ba71-4e1f-abc5-a5d18387cad0)
 ![My first dashboard 2](https://github.com/user-attachments/assets/74161171-9a49-4467-a184-186e32424f37)
-![FOURTH](https://github.com/user-attachments/assets/4c961e0c-c751-46dd-9209-e1de8f171d7c)
 ![THIRD](https://github.com/user-attachments/assets/b05f873f-c5c4-4de3-8054-352e4ad1a7f5)
+
+To see the full RESULT file ([Amazon case study.xlsx](https://github.com/user-attachments/files/21087402/Amazon.case.study.xlsx))
+
 
 ### INSIGHTS
 The top 5 products based on the analysis of the Amazon sales data set in terms of the average rating by customers and reviews combined are all products under ‘Electronics’ Category of products.

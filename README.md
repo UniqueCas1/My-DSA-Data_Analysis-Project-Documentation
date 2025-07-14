@@ -40,17 +40,16 @@ By employing the use of pivot tables and calculated columns, I was able to answe
 ### ANALYSIS
 Below are some DAX Expressions used during my analysis:
 Creation of Pivot tables
-<img width="1294" height="511" alt="1" src="https://github.com/user-attachments/assets/321a3d2c-1ede-4abf-8b35-015d8b042af6" />
-<img width="1258" height="577" alt="2" src="https://github.com/user-attachments/assets/3ed57f4c-040a-433e-a903-d5b14882997c" />
-<img width="1222" height="550" alt="3" src="https://github.com/user-attachments/assets/236eb90f-3444-4b04-b998-7b603f6fd8b4" />
-<img width="1197" height="546" alt="4" src="https://github.com/user-attachments/assets/df4ccccd-2aa2-4ec8-a5de-585a08f55154" />
+
 
 
 Creation of dashboard
 Attached below is my interactive dashboard
-<img width="1078" height="662" alt="MAIN DASHBOARD 1" src="https://github.com/user-attachments/assets/8aa92030-0b24-40cd-9f22-4a881a0d53db" />
-<img width="1078" height="664" alt="MAIN DASHBOARD 2" src="https://github.com/user-attachments/assets/0b3ea7ee-d1b4-4c8c-9c40-bdec89d78e4e" />
+<img width="1078" height="662" alt="MAIN DASHBOARD 1" src="https://github.com/user-attachments/assets/74ff212b-3474-44e6-a025-7d84cc8f4e0e" />
 
+
+
+<img width="1078" height="664" alt="MAIN DASHBOARD 2" src="https://github.com/user-attachments/assets/8d1370c1-e93e-4fb2-805a-6218222ee2d3" />
 
 
 

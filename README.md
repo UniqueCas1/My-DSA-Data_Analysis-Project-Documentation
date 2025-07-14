@@ -45,8 +45,7 @@ Creation of Pivot tables
 
 Creation of dashboard
 Attached below is my interactive dashboard
-<img width="1078" height="662" alt="MAIN DASHBOARD 1" src="https://github.com/user-attachments/assets/74ff212b-3474-44e6-a025-7d84cc8f4e0e" />
-
+![image alt](https://github.com/UniqueCas1/My-DSA-Data_Analysis-Project-Documentation/blob/b08c8f74cea29885d9af2bf4869e9e845e788154/MAIN%20DASHBOARD%201.png)
 
 
 <img width="1078" height="664" alt="MAIN DASHBOARD 2" src="https://github.com/user-attachments/assets/8d1370c1-e93e-4fb2-805a-6218222ee2d3" />

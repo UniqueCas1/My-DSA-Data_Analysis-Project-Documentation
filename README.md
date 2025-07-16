@@ -1,4 +1,3 @@
-<img width="1078" height="662" alt="MAIN DASHBOARD 1" src="https://github.com/user-attachments/assets/7d441d61-b341-4633-99e3-1da680408c13" /># My-DSA Data analysis-Project-Documentation
 ## DSA DATA ANALYSIS PROJECT WORK SUMMARY USING MICROSOFT EXCEL TOOL
 ## AMAZON E-COMMERCE CASE STUDY
 ### Project Overview
@@ -45,16 +44,12 @@ Creation of Pivot tables
 
 Creation of dashboard
 Attached below is my interactive dashboard
-![image alt](https://github.com/UniqueCas1/My-DSA-Data_Analysis-Project-Documentation/blob/b08c8f74cea29885d9af2bf4869e9e845e788154/MAIN%20DASHBOARD%201.png)
-
-
-<img width="1078" height="664" alt="MAIN DASHBOARD 2" src="https://github.com/user-attachments/assets/8d1370c1-e93e-4fb2-805a-6218222ee2d3" />
 
 
 
 ### RESULTS AND INSIGHTS
 
-To see the full RESULT file [Amazon case study.xlsx](https://github.com/user-attachments/files/21205870/Amazon.case.study.xlsx)
+To see the full RESULT file
 
 
 According to this analysis, the top 5 products of the Amazon sales data set in terms of the average rating by customers and reviews combined are all products under ‘Electronics’ Category of products.
